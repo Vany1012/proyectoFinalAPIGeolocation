@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    font-family: "Dancing Script", cursive, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    align-content: center;
+    align-items:center;
+    background: url(https://cdn.pixabay.com/photo/2012/01/09/09/59/earth-11595_1280.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#titulo{
+    color: white;
+    font-size: 10vw;
+    margin-top: 10vh;
+}
+#input-container{
+    color: white;
+    margin-top: 5vh;
+    text-align: center;
+}
+#lb-ip{
+    font-size: 2vw;
+}
+#ip-input{
+    padding: .3vw;
+    width: 15vw;
+}
+
+#btn-buscar{
+    background-color: white;
+    border-radius: 10px;
+    padding: .5vw;
+}
+#respuesta{
+    color: white;
+    font-family:"Source Code Pro", monospace;
+    margin-top: 5vh;
+}
+#reportar{
+    color: white;
+    margin-top: 5vh;
+}

@@ -1,0 +1,20 @@
+@media (max-width: 480px){
+    #titulo{
+        color: white;
+        font-size: 15vw;
+        margin-top: 10vh;
+    }
+    #lb-ip{
+    font-size: 5vw;
+    }
+    #respuesta{
+        font-size: 5vw;
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+    #reportar{
+        font-size: 5vw;
+        margin-left: 3vw;
+        margin-right: 3vw;
+    }
+}

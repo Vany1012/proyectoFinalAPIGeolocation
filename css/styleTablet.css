@@ -1,0 +1,14 @@
+@media (max-width: 768px){
+    #titulo{
+        color: white;
+        font-size: 15vw;
+        margin-top: 10vh;
+    }
+    #lb-ip{
+    font-size: 4vw;
+    }
+    #reportar{
+        margin-left: 3vw;
+        margin-right: 3vw;
+    }
+}
